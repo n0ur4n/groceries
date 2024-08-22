@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "fs": "^0.0.1-security",
+    "fs-sync": "^1.0.6",
+    "prompt-sync": "^4.2.0"
+  }
+}
